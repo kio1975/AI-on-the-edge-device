@@ -31,12 +31,12 @@
 
 
 
-[![made-with-c++](https://img.shields.io/badge/Made%20with-C++-1f425f.svg)](https://github.com/jomjol/AI-on-the-edge-device/tree/main/code)
-[![Doc](https://img.shields.io/badge/Doc-MkDocs-526CFE.svg)](https://jomjol.github.io/AI-on-the-edge-device-docs/)
-[![Total downloads](https://img.shields.io/github/downloads/jomjol/AI-on-the-edge-device/total.svg)](https://GitHub.com/jomjol/AI-on-the-edge-device/releases/)
-[![GitHub release](https://img.shields.io/github/release/jomjol/AI-on-the-edge-device.svg)](https://GitHub.com/jomjol/AI-on-the-edge-device/releases/)
-[![GitHub forks](https://img.shields.io/github/forks/jomjol/AI-on-the-edge-device.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/jomjol/AI-on-the-edge-device/network/)
-[![GitHub stars](https://img.shields.io/github/stars/jomjol/AI-on-the-edge-device.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/jomjol/AI-on-the-edge-device/stargazers/)
+[![made-with-c++](https://img.shields.io/badge/Made%20with-C++-1f425f.svg)](https://github.com/kio1975/AI-on-the-edge-device/tree/main/code)
+[![Doc](https://img.shields.io/badge/Doc-MkDocs-526CFE.svg)](https:/kio1975.github.io/AI-on-the-edge-device-docs/)
+[![Total downloads](https://img.shields.io/github/downloads/kio1975/AI-on-the-edge-device/total.svg)](https://GitHub.com/kio1975/AI-on-the-edge-device/releases/)
+[![GitHub release](https://img.shields.io/github/release/kio1975/AI-on-the-edge-device.svg)](https://GitHub.com/kio1975/AI-on-the-edge-device/releases/)
+[![GitHub forks](https://img.shields.io/github/forks/kio1975/AI-on-the-edge-device.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/kio1975/AI-on-the-edge-device/network/)
+[![GitHub stars](https://img.shields.io/github/stars/kio1975/AI-on-the-edge-device.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/kio1975/AI-on-the-edge-device/stargazers/)
 
 <p align="center" id="top">
   <img src="images/icon/watermeter.svg" width="150px">
