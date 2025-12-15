@@ -47,7 +47,7 @@ This project demonstrates edge computing using the **ESP32**, a low-cost, AI-cap
 
 Let's explore how to make **AI on the Edge** a reality! 🌟
 
-All you need is an [ESP32 board with a supported camera](https://jomjol.github.io/AI-on-the-edge-device-docs/Hardware-Compatibility/) and some practical skills. 🛠️
+All you need is an [ESP32 board with a supported camera](https://kio1975.github.io/AI-on-the-edge-device-docs/Hardware-Compatibility/) and some practical skills. 🛠️
 
 ---
 
@@ -107,7 +107,7 @@ There are several options for what to do with that value:
 <br>
 
 ## Setup 🛠️
-There is growing [documentation](https://jomjol.github.io/AI-on-the-edge-device-docs/) which provides you with a lot of information. Head there to get started, set it up, and configure it.
+There is growing [documentation](https://kio1975.github.io/AI-on-the-edge-device-docs/) which provides you with a lot of information. Head there to get started, set it up, and configure it.
 
 There are also articles in the German Heise magazine "make:" about the setup and technical background (behind a paywall): [DIY - Setup](https://www.heise.de/select/make/2021/2/2103513300897420296) 📰
 
@@ -130,7 +130,7 @@ For further background information, head to:
 <br>
 
 ## Download 🔽
-The latest available version can be found on the [Releases page](https://github.com/jomjol/AI-on-the-edge-device/releases).
+The latest available version can be found on the [Releases page](https://github.com/kio1975/AI-on-the-edge-device/releases).
 
 ---
 
@@ -140,12 +140,12 @@ The latest available version can be found on the [Releases page](https://github.
 Initially, you will have to flash the ESP32 via a USB connection. Later updates are possible directly over the air (OTA using Wi-Fi).
 
 There are different ways to flash your ESP32:
-- The preferred way is the [Web Installer and Console](https://jomjol.github.io/AI-on-the-edge-device/index.html), a browser-based tool to flash the ESP32 and extract the log over USB:  
+- The preferred way is the [Web Installer and Console](https://kio1975.github.io/AI-on-the-edge-device/index.html), a browser-based tool to flash the ESP32 and extract the log over USB:  
   ![](images/web-installer.png)
 - Flash Tool from Espressif
 - ESPtool (command-line tool)
 
-See the [documentation](https://jomjol.github.io/AI-on-the-edge-device-docs/Installation/) for more information.
+See the [documentation](https:/kio1975.github.io/AI-on-the-edge-device-docs/Installation/) for more information.
 
 ---
 
